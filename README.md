@@ -1,5 +1,6 @@
 
 <html>
+<center>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 </head>
@@ -18,4 +19,5 @@
   <area shape="rect" coords="17,919,578,1016" href="https://goo.gl/5mPXDF" target="_blank">
 </map>
 </body>
+</center>
 </html>
