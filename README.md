@@ -1,14 +1,13 @@
 
 <html>
 <head>
-<title>2017TC-EDM-01</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 </head>
 <body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
 
 <table width="596" border="0" align="center" cellpadding="0" cellspacing="0">
   <tr>
-    <td><img src="http://www.ayics.net/work/2017TC-EDM/images/index.jpg" width="596" height="1137" border="0" usemap="#Map"></td>
+    <td><img src="http://edm.tc-chambermusic.org/edm201701/index.jpg" width="596" height="1137" border="0" usemap="#Map"></td>
   </tr>
 </table>
 
